@@ -130,22 +130,36 @@
         {
           "id": "0",
           "title": {
-            "en": "Room",
+            "en": "Heat Room",
             "es": "Termostato"
           }
         },
         {
           "id": "1",
           "title": {
-            "en": "Flow",
+            "en": "Heat Flow",
             "es": "Flow"
           }
         },
         {
           "id": "2",
           "title": {
-            "en": "Curve",
+            "en": "Heat Curve",
             "es": "Curva"
+          }
+        },
+        {
+          "id": "3",
+          "title": {
+            "en": "Cool Room",
+            "es": "Termostato"
+          }
+        },
+        {
+          "id": "4",
+          "title": {
+            "en": "Cool Flow",
+            "es": "Termostato"
           }
         }
       ]
@@ -884,14 +898,14 @@
                   "id": "3",
                   "label": {
                     "en": "Cool Thermostat",
-                    "es": "Cool Termostato"
+                    "es": "Termostato"
                   }
                 },
                 {
                   "id": "4",
                   "label": {
                     "en": "Cool Flow",
-                    "es": "Cool Flow"
+                    "es": "Flow"
                   }
                 }
               ]
@@ -1035,22 +1049,36 @@
               {
                 "id": "0",
                 "title": {
-                  "en": "Room",
+                  "en": "Heat Room",
                   "es": "Termostato"
                 }
               },
               {
                 "id": "1",
                 "title": {
-                  "en": "Flow",
+                  "en": "Heat Flow",
                   "es": "Flow"
                 }
               },
               {
                 "id": "2",
                 "title": {
-                  "en": "Curve",
+                  "en": "Heat Curve",
                   "es": "Curva"
+                }
+              },
+              {
+                "id": "3",
+                "title": {
+                  "en": "Cool Room",
+                  "es": "Termostato"
+                }
+              },
+              {
+                "id": "4",
+                "title": {
+                  "en": "Cool Flow",
+                  "es": "Termostato"
                 }
               }
             ]
@@ -1687,22 +1715,36 @@
               {
                 "id": "0",
                 "title": {
-                  "en": "Room",
+                  "en": "Heat Room",
                   "es": "Termostato"
                 }
               },
               {
                 "id": "1",
                 "title": {
-                  "en": "Flow",
+                  "en": "Heat Flow",
                   "es": "Flow"
                 }
               },
               {
                 "id": "2",
                 "title": {
-                  "en": "Curve",
+                  "en": "Heat Curve",
                   "es": "Curva"
+                }
+              },
+              {
+                "id": "3",
+                "title": {
+                  "en": "Cool Room",
+                  "es": "Termostato"
+                }
+              },
+              {
+                "id": "4",
+                "title": {
+                  "en": "Cool Flow",
+                  "es": "Termostato"
                 }
               }
             ]
@@ -2139,22 +2181,36 @@
               {
                 "id": "0",
                 "title": {
-                  "en": "Room",
+                  "en": "Heat Room",
                   "es": "Termostato"
                 }
               },
               {
                 "id": "1",
                 "title": {
-                  "en": "Flow",
+                  "en": "Heat Flow",
                   "es": "Flow"
                 }
               },
               {
                 "id": "2",
                 "title": {
-                  "en": "Curve",
+                  "en": "Heat Curve",
                   "es": "Curva"
+                }
+              },
+              {
+                "id": "3",
+                "title": {
+                  "en": "Cool Room",
+                  "es": "Termostato"
+                }
+              },
+              {
+                "id": "4",
+                "title": {
+                  "en": "Cool Flow",
+                  "es": "Termostato"
                 }
               }
             ]
