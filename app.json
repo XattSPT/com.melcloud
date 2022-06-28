@@ -862,22 +862,36 @@
                 {
                   "id": "0",
                   "label": {
-                    "en": "Room",
+                    "en": "Heat Room",
                     "es": "Termostato"
                   }
                 },
                 {
                   "id": "1",
                   "label": {
-                    "en": "Flow",
+                    "en": "Heat Flow",
                     "es": "Flow"
                   }
                 },
                 {
                   "id": "2",
                   "label": {
-                    "en": "Curve",
+                    "en": "Heat Curve",
                     "es": "Curva"
+                  }
+                },
+                {
+                  "id": "3",
+                  "label": {
+                    "en": "Cool Thermostat",
+                    "es": "Cool Termostato"
+                  }
+                },
+                {
+                  "id": "4",
+                  "label": {
+                    "en": "Cool Flow",
+                    "es": "Cool Flow"
                   }
                 }
               ]
