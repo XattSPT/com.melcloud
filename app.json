@@ -603,6 +603,49 @@
       "uiQuickAction": false,
       "icon": "/assets/frequency.svg",
       "value": "Mode"
+    },
+    "meter_power_consumed_yesterday" : {
+      "type": "number",
+      "title": {
+        "en": "Yesterday's energy consumption"
+      },
+      "uiComponent": "sensor",
+      "insights": true,
+      "getable": true,
+      "setable": false,
+      "units": {
+        "en": "kWh"
+      },
+      "uiQuickAction": false,
+      "icon": "/assets/meter_power.svg"
+    },
+    "meter_power_produced_yesterday" : {
+      "type": "number",
+      "title": {
+        "en": "Yesterday's produced energy"
+      },
+      "uiComponent": "sensor",
+      "insights": true,
+      "getable": true,
+      "setable": false,
+      "units": {
+        "en": "kWh"
+      },
+      "uiQuickAction": false,
+      "icon": "/assets/meter_power.svg"
+    },
+    "meter_cop_yesterday" : {
+      "type": "number",
+      "title": {
+        "en": "Yesterday's CoP"
+      },
+      "decimals": 2,
+      "uiComponent": "sensor",
+      "insights": true,
+      "getable": true,
+      "setable": false,
+      "uiQuickAction": false,
+      "icon": "/assets/measure_power.svg"
     }
   },
   "drivers": [
