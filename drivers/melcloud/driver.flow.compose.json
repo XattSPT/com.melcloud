@@ -56,10 +56,10 @@
     {
       "id": "Fan_Speed_Trigger",
       "title": {
-        "en": "The fan speed has changed to..."
+        "en": "Fan speed has changed to..."
       },
       "titleFormatted": {
-        "en": "The fan speed has changed to [[fan_speed_action]]"
+        "en": "Fan speed has changed to [[fan_speed_action]]"
       },
       "args": [
         {
@@ -109,10 +109,10 @@
     {
       "id": "Vertical_Swing_Trigger",
       "title": {
-        "en": "The vertical swing has changed to..."
+        "en": "Vertical swing has changed to..."
       },
       "titleFormatted": {
-        "en": "The vertical swing has changed to [[vertical_swing_action]]"
+        "en": "Vertical swing has changed to [[vertical_swing_action]]"
       },
       "args": [
         {
@@ -168,10 +168,10 @@
     {
       "id": "Horizontal_Swing_Trigger",
       "title": {
-        "en": "The horizontal swing has changed to..."
+        "en": "Horizontal swing has changed to..."
       },
       "titleFormatted": {
-        "en": "The horizontal swing has changed to [[horizontal_swing_action]]"
+        "en": "Horizontal swing has changed to [[horizontal_swing_action]]"
       },
       "args": [
         {
